@@ -1,0 +1,15 @@
+Vehicle Gate Log Audit Report
+----------------------------------
+
+Total Records: 9
+Clean Records: 5
+Duplicate Records: 1
+Suspicious Records: 1
+Rejected Records: 2
+
+Vehicle Wise Summary
+-------------------------
+WB12AB1234 : 3 scans
+WB34XY7788 : 1 scans
+WB45CD5555 : 1 scans
+WB78GH4321 : 2 scans

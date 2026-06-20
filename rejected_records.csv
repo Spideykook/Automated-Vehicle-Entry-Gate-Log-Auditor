@@ -1,0 +1,3 @@
+vehicle_no,owner_name,gate_code,scan_type,scan_time,security_device
+WB9A1234,Ayan Das,GATE-A,ENTRY,10-06-2026 09:20:00,DEV103
+WB56EF7890,Ritu Sen,GATE-X,ENTRY,INVALID_DATE,DEV105
